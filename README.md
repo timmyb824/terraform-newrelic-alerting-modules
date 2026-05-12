@@ -1,5 +1,9 @@
 # Summary
 
+> [!WARNING]
+> It’s very likely the provider has changed significantly since this was created, so it may no longer be valid.
+> I’m leaving it for reference as a completed project, but archiving it to reflect that it likely no longer works as originally intended.
+
 Provision New Relic alerting using Terraform.
 
 ## Installation
